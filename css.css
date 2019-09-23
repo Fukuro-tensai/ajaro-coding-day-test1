@@ -1,0 +1,37 @@
+    .navbar-brand {
+      margin-right: 60%;
+      margin-left: 40%;
+    }
+    .navbar {
+      margin-bottom: 70px;
+    }
+    button.btn-succes {
+      padding-left: 30px;
+      padding-right: 30px;
+    }
+    div.konten-table {
+      width: 80%;
+      margin: auto;
+    }
+    tr>th,tr>td {
+      text-align: center;
+    } 
+    h5.aan {
+      margin-bottom: 40px;
+    }
+    div.konten-form {
+      width: 50%;
+      margin: auto;
+    }
+    button.btn {
+      padding-left: 35px;
+      padding-right: 35px;
+    }
+    .col-sm-101 {
+      margin-left: 35%;
+    }
+    .alert {
+      margin: 0px 0px 10px 0px;
+      padding: 0px 0px 0px 0px;
+      color: rgb(195 25 45);
+    }
